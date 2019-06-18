@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+
+.no-cms {
+  text-align: center;
+  color: red;
+}
+
+@font-face {
+  font-family:"True Lies";
+  src: url("True-lies.ttf") format("truetype");
+}
+ 
